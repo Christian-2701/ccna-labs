@@ -1,10 +1,12 @@
-# Packet Tracer Introduction
+# Packet Tracer Introduction Lab
 
 ## Objective
 Connecting devices using the "Automatically Choose Connection Type" function.
 
 ## Topology
 Two branch sites connecting to the internet.
+![Packet Tracer Introduction Lab](topology.png)
+
 
 ## Key Commands / Concepts
 Connecting devices.
